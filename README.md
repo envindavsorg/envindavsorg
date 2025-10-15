@@ -7,7 +7,8 @@ Visitez mon nouveau portfolio en ligne: [cuzeacflorin.fr](https://cuzeacflorin.f
 Check out my new portfolio: [cuzeacflorin.fr](https://cuzeacflorin.fr)
 
 
-<h2 align="center">Weekly development breakdown</h2>
+<h2 align="center">Statistiques</h2>
+<h2 align="center">(weekly development breakdown)</h2>
 
 <p align="center">
 <!--START_SECTION:waka-->
