@@ -5,3 +5,6 @@ Visitez mon nouveau portfolio en ligne: [cuzeacflorin.fr](https://cuzeacflorin.f
 ## Code with passion, create without limits. 🚀🚀🚀
 
 Check out my new portfolio: [cuzeacflorin.fr](https://cuzeacflorin.fr)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
