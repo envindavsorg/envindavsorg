@@ -6,6 +6,8 @@ Visitez mon nouveau portfolio en ligne: [cuzeacflorin.fr](https://cuzeacflorin.f
 
 Check out my new portfolio: [cuzeacflorin.fr](https://cuzeacflorin.fr)
 
+[![Voici mon nouvel ami !](https://tinymystery.club/static/peng-down-walk.gif)](https://tinymystery.club)
+
 ##
 ## Statistiques (weekly development breakdown)
 
