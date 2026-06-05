@@ -6,8 +6,8 @@
 
 ## Code with passion, create without limits. 🚀🚀🚀
 
-Check out my new portfolio: [cuzeacflorin.fr](https://cuzeacflorin.fr)
-Check out my new app: [seashell](https://seashell.cuzeacflorin.fr)
+- Check out my new portfolio: [cuzeacflorin.fr](https://cuzeacflorin.fr)
+- Check out my new app: [seashell](https://seashell.cuzeacflorin.fr)
 
 &nbsp;
 
