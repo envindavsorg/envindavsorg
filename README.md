@@ -1,24 +1,19 @@
 &nbsp;
 
-[![Voici mon nouvel ami !](https://tinymystery.club/static/peng-down-walk.gif)](https://tinymystery.club)
-
-&nbsp;
-
-## Coder avec passion, créer sans limite. 🚀🚀🚀
-
-Visitez mon nouveau portfolio en ligne: [cuzeacflorin.fr](https://cuzeacflorin.fr)
+[![New friend !](https://tinymystery.club/static/peng-down-walk.gif)](https://tinymystery.club)
 
 &nbsp;
 
 ## Code with passion, create without limits. 🚀🚀🚀
 
 Check out my new portfolio: [cuzeacflorin.fr](https://cuzeacflorin.fr)
+Check out my new app: [seashell](https://seashell.cuzeacflorin.fr)
 
 &nbsp;
 
 ##
 
-## Statistiques (weekly development breakdown)
+## Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
 
